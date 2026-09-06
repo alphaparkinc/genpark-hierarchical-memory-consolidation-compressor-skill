@@ -1,0 +1,12 @@
+{
+  "name": "genpark-hierarchical-memory-consolidation-compressor-skill",
+  "version": "1.0.0",
+  "description": "Consolidates episodic dialogue logs into semantic long-term memory summaries with importance decay and salience filters.",
+  "category": "Agent Memory Graph & Temporal Knowledge",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-hierarchical-memory-consolidation-compressor-skill",
+  "verified": true,
+  "stars": 8
+}
